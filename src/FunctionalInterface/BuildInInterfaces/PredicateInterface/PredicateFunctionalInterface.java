@@ -1,4 +1,4 @@
-package FunctionalInterface.BuildInInterfaces;
+package FunctionalInterface.BuildInInterfaces.PredicateInterface;
 
 import java.util.*;
 import java.util.function.Predicate;
