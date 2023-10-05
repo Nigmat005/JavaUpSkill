@@ -35,3 +35,5 @@ public class PredicateFunction_RemovePractice {
         nums.forEach(System.out::println);
     }
 }
+
+
